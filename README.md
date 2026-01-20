@@ -186,8 +186,8 @@ All dependencies are managed using `requirements.txt` to ensure smooth deploymen
 ---
 
 ## 10. Links
-🔗 **Live Streamlit App:** *(Add deployed Streamlit link here)*  
-🔗 **GitHub Repository:** *(Add GitHub repository link here)*  
+🔗 **Live Streamlit App:** *https://heart-disease-ml-app-etrbva2rt8vttjqxq7h2pq.streamlit.app/*  
+🔗 **GitHub Repository:** *https://github.com/GGMgithub/heart-disease-ml-app/tree/main*  
 
 ---
 
