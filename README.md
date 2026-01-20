@@ -1,8 +1,5 @@
 # Heart Disease Prediction using Machine Learning
 
-## Assignment Overview
-This project is submitted as part of the **Machine Learning course** under the **Work Integrated Learning Programmes (WILP)** at **BITS Pilani**.
-
 ---
 
 ## 1. Problem Statement
