@@ -31,7 +31,6 @@ df.drop(columns=["num", "id", "dataset"], inplace=True)
 # ===============================
 # Separate Column Types
 # ===============================
-
 numeric_cols = df.select_dtypes(include=["int64", "float64"]).columns
 categorical_cols = df.select_dtypes(include=["object"]).columns
 
