@@ -169,7 +169,9 @@ project-folder/
 │   ├── random_forest_model.py
 │   ├── xgboost_model.pkl
 │   ├── xgboost_model.py
-│   └── scaler.pkl
+│   ├── feature_names.pkl
+│   ├── scaler.pkl
+│   └── model_metrics.csv
 
 ```
 This structure separates **data, model training, and deployment components** to ensure clarity, reproducibility, and maintainability
