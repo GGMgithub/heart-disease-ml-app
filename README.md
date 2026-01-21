@@ -14,7 +14,7 @@ This system is intended as a **decision-support tool** and **not a replacement f
 The dataset used in this project is the **Heart Disease UCI Dataset**, sourced from [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data).
 
 - **Number of instances:** 920  
-- **Number of features:** 15  
+- **Number of features:** 14  
 - **Target variable:** `num`  
   - `0` → No heart disease  
   - `1` → Presence of heart disease (all values > 0 converted to 1)
