@@ -11,7 +11,7 @@ This system is intended as a **decision-support tool** and **not a replacement f
 ---
 
 ## 2. Dataset Description
-The dataset used in this project is the **Heart Disease UCI Dataset**, sourced from [Kaggle](https://www.kaggle.com/ronitf/heart-disease-uci).
+The dataset used in this project is the **Heart Disease UCI Dataset**, sourced from [Kaggle](https://www.kaggle.com/datasets/redwankarimsony/heart-disease-data).
 
 - **Number of instances:** 920  
 - **Number of features:** 15  
